@@ -6,7 +6,7 @@ argparse==1.2.1
 #chardet==2.0.1
 colorama==0.2.5
 configobj==4.7.2
-Django==1.8.9
+Django==2.2.24
 djangorestframework==3.3.2
 django-filter==0.12.0
 funcy==1.2
