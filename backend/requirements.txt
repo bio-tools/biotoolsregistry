@@ -13,7 +13,7 @@ funcy==1.2
 html5lib==0.999
 httplib2==0.18.0
 jsonschema==2.4.0
-lxml==3.4.1
+lxml==4.6.3
 Markdown==2.6.5
 mock==1.0.1
 MySQL-python==1.2.5
